@@ -1,6 +1,6 @@
 {
-    "name": "pages",
-    "short_name": "pages",
+    "name": "faker_app_flutter_firebase",
+    "short_name": "faker_app_flutter_firebase",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
